@@ -37,7 +37,7 @@ cost, highlighting trade-offs for real-time applications.
 - Federal Test Procedure (FTP-75)
 
 ## Files
-- `Energy_Management_System_for_Parallel_HEV.pdf` – Full seminar report
+- `Energy_Management_Strategies_for_Parallel_HEV.pdf` – Full seminar report
 
 ## Notes
 This work was completed as part of a university-level seminar and was not
